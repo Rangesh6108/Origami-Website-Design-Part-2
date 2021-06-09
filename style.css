@@ -1,0 +1,32 @@
+  
+  h1 {
+   color:aquamarine    
+  }
+
+  h2{
+    color:orangered;
+  }
+
+  .header{
+    background-color:cornflowerblue;
+    display : flex;
+    justify-content: space-between;
+  }
+
+  .grid{
+    background-color: crimson;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color:lightseagreen;
+  }
+
+  .origami{
+    background-color: cornsilk;
+  }
+
+  .text{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
